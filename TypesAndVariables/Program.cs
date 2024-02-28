@@ -12,6 +12,7 @@ namespace TypesAndVariables
         {
             // Value Types
             //Console.WriteLine("Hello World!");
+            // Degisiklik yaptim farz edelim
             int number1 = 2147483647;
             long number2 = 9223372036854775807;
             short number3 = 32767;
